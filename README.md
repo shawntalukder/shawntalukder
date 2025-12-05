@@ -10,7 +10,6 @@
 - 🤝 I’m looking for help with **Deep Learning, OpenCv**
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, Python, R, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV, TensorFlow, pyTorch, NumPy, Pandas, Matlab**
 - 👨‍💻 All of my projects are available at **[TALUKDER SHAWN](https://github.com/shawntalukder)**
-- 📫 You can reach me anytime via Email **shaounbarua52@gmail.com**
 - ⚡ Fun fact **I'm very Funny Person**
   
 ### 🛠️ Technical Skills
