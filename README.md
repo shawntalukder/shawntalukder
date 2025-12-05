@@ -2,7 +2,7 @@
 <h4 align="center">Deeply committed to exploring advanced concepts in Artificial Intelligence, Machine Learning, Deep learning, and Computer Vision. My goal is to immerse myself in research, discover new ideas, and publish original work throughout my MSc and PhD journey.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawntalukder&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawntalukder&label=Profile%20views&color=0e75b6&style=flat" alt="shawntalukder" /> </p>
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision**
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
