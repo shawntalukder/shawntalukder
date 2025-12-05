@@ -1,8 +1,8 @@
 <h1 align="center">Hello there 👋, I'm TALUKDER SHAWN </h1>
-<h4 align="center">Deeply committed to exploring advanced concepts in Artificial Intelligence, Machine Learning, Deep learning, and Computer Vision. My goal is to immerse myself in research, discover new ideas, and contribute to original publications throughout my MSc and PhD journey.</h4>
+<h4 align="center">Deeply committed to exploring advanced concepts in Artificial Intelligence, Machine Learning, Deep learning, and Computer Vision. My goal is to immerse myself in research, discover new ideas, and publish original work throughout my MSc and PhD journey.</h4>
 
-<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathosense&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawntalukder&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision**
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
@@ -11,12 +11,9 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, Python, R, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV, TensorFlow, pyTorch, NumPy, Pandas, Matlab**
 - 👨‍💻 All of my projects are available at **[TALUKDER SHAWN](https://github.com/arafathosense)**
 - 📫 You can reach me anytime via Email **shaounbarua52@gmail.com**
-- ⚡ Fun fact **I'm a very Funny Person**
+- ⚡ Fun fact **I'm very Funny Person**
   
-
-
 ### 🛠️ Technical Skills
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
@@ -45,40 +42,23 @@
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="45"/>
 </div>
-
   <!-- PROFILE CARD -->
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafathosense&show_icons=true&hide_border=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shawntalukder&show_icons=true&hide_border=true&theme=radical" height="170" />
 
   <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathosense&layout=compact&hide_border=true&theme=radical" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawntalukder&layout=compact&hide_border=true&theme=radical" height="170"/>
 </div>
-
 <br/>
-
 <!-- STREAK -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafathosense&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawntalukder&theme=radical&hide_border=true" />
 </div>
-
 <br/>
-
-
-
 <!-- GitHub Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-
-
-
-
-
-
-
-
 
 
 
