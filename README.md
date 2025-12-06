@@ -41,18 +41,6 @@
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="45"/>
 </div>
-  <!-- PROFILE CARD -->
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawntalukder&show_icons=true&hide_border=true&theme=radical" height="170" />
-
-  <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawntalukder&layout=compact&hide_border=true&theme=radical" height="170"/>
-</div>
-<br/>
-<!-- STREAK -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawntalukder&theme=radical&hide_border=true" />
-</div>
 <br/>
 <!-- GitHub Contribution Snake -->
 <p align="center">
